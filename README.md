@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120"   alt="Nest Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
@@ -31,7 +31,6 @@
 ```bash
 $ npm install
 ```
-
 ## Compile and run the project
 
 ```bash
@@ -54,7 +53,7 @@ $ npm run test
 # e2e tests
 $ npm run test:e2e
 
-# test coverage
+## test coverage
 $ npm run test:cov
 ```
 
